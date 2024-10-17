@@ -1,15 +1,15 @@
-# 💫 About Me:
-                                                                          👋 Hi, I'm Pritam Majumder!
+  #              💫 About Me:
+ ##                       👋 Hi, I'm Pritam Majumder!
 
-                                                                    💻 Data Science enthusiast || Python & R   
-                                                            📊 Love solving problems with data || ML, AI, and Analytics  
-                                                          🎓 M.Sc. Data Science @ University of Kalyani || B.Sc. CS grad  
-                                                  🔍 Exploring stock market trends,web scraping, prompt engineering & healthcare AI  
-                                                                      🚀 Always learning, always building!
+  💻 Data Science enthusiast || Python & R   
+  📊 Love solving problems with data || ML, AI, and Analytics  
+  🎓 M.Sc. Data Science @ University of Kalyani || B.Sc. CS grad  
+  🔍 Exploring stock market trends,web scraping, prompt engineering & healthcare AI  
+  🚀 Always learning, always building!
 
-                                                               Let's connect and collaborate on cool projects!
+   Let's connect and collaborate on cool projects!
 
-              <br>I am always eager to learn and collaborate on new research opportunities, with the goal of contributing meaningfully to the data science field.<br>
+  <br> 🌼I am always eager to learn and collaborate on new research opportunities, with the goal of contributing meaningfully to the data science field.<br>
 
 
 ## 🌐 Socials:
