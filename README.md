@@ -1,6 +1,15 @@
 # 💫 About Me:
-## Hey there I'm pritam
-<br> <br>🧑‍💻Current Education : M.Sc. in Data Science (2023-2025) at the University of Kalyani  <br>🏫Previous Education : B.Sc. in Computer Science from The University of Burdwan<br>💻I am a data science enthusiast with a strong foundation in computer science and a passion for solving real-world problems through data-driven approaches. My soft skills include web scraping, prompt engineering, and critical thinking.<br>I am always eager to learn and collaborate on new research opportunities, with the goal of contributing meaningfully to the data science field.
+                                                                          👋 Hi, I'm Pritam Majumder!
+
+                                                                    💻 Data Science enthusiast || Python & R   
+                                                            📊 Love solving problems with data || ML, AI, and Analytics  
+                                                          🎓 M.Sc. Data Science @ University of Kalyani || B.Sc. CS grad  
+                                                  🔍 Exploring stock market trends,web scraping, prompt engineering & healthcare AI  
+                                                                      🚀 Always learning, always building!
+
+                                                               Let's connect and collaborate on cool projects!
+
+              <br>I am always eager to learn and collaborate on new research opportunities, with the goal of contributing meaningfully to the data science field.<br>
 
 
 ## 🌐 Socials:
