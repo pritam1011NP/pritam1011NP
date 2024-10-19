@@ -1,3 +1,5 @@
+![banner](https://github.com/user-attachments/assets/f31785b2-f40b-47aa-99c0-e03dbde816db)
+
  <h1 align="center"> 👋🏻,Hi, I'm Pritam Majumder! </br> 
 </h1>
   <p align="center">💻 Data Science enthusiast || Python & R </p>  
