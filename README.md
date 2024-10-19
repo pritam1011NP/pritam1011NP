@@ -6,6 +6,11 @@
   <p align="center">🔍 Exploring stock market trends,web scraping, prompt engineering & healthcare AI ⚡</p>
   <p align="center">🚀 Always learning, always building!----Turning imagination into reality</p>
 
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=pritam1011NP&icon=6&color=0" alt="Visit Count"/>
+  </a>
+</div>
 
 
  ## <br> 🌼I am always eager to learn and collaborate on new research opportunities, with the goal of contributing meaningfully to the data science field.<br>
