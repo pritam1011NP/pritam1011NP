@@ -18,7 +18,8 @@
   <img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2024" height="20px" />
  </a>
  </div>
- ## <br> 🌼I am always eager to learn and collaborate on new research opportunities, with the goal of contributing meaningfully to the data science field.<br>
+ <br> 
+ ## 🌼I am always eager to learn and collaborate on new research opportunities, with the goal of contributing meaningfully to the data science field.<br>
  <p align="center"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 <br><br></p>
 
