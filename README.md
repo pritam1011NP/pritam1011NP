@@ -52,7 +52,6 @@
 ---
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-[![](https://visitcount.itsvg.in/api?id=pritam1011NP&icon=6&color=0)](https://visitcount.itsvg.in)
 
  <h1 align="center"> is it a python !!</h1>
 
