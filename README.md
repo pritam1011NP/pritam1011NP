@@ -1,4 +1,4 @@
-<img align="center" alt="" src="banner.gif"  width="80" height="30" />
+<img align="center" alt="" src="banner.gif"  width="900" height="400" />
 
  <h1 align="center"> 👋🏻,Hi, I'm Pritam Majumder! </br> 
 </h1>
