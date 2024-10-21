@@ -1,4 +1,4 @@
-<img align="center" width="80%" alt="" src="https://github.com/user-attachments/assets/f31785b2-f40b-47aa-99c0-e03dbde816db" />
+<img align="center" width="80%" height="50%" alt="" src="https://github.com/user-attachments/assets/f31785b2-f40b-47aa-99c0-e03dbde816db" />
 
  <h1 align="center"> 👋🏻,Hi, I'm Pritam Majumder! </br> 
 </h1>
