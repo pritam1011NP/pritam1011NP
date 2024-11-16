@@ -55,7 +55,7 @@
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<h3 align="center"> 🔝 Top Contributed Repo</h3>
+##🔝 Top Contributed Repo
 <img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e">
 
 ![](https://github-contributor-stats.vercel.app/api?username=pritam1011NP&limit=5&theme=dark&combine_all_yearly_contributions=true)
