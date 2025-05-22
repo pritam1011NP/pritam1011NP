@@ -8,11 +8,7 @@
   <p align="center">🔍 Exploring stock market trends,web scraping, prompt engineering & healthcare AI ⚡</p>
   <p align="center">🚀 Always learning, always building!----Turning imagination into reality</p>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=pritam1011NP&icon=6&color=0" alt="Visit Count"/>
-  </a>
-</div>
+
 <div align="center">
  <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4">
   <img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2024" height="20px" />
