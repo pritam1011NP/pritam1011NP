@@ -12,7 +12,7 @@
 <div align="center">
  <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4">
   <img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2024" height="20px" />
-  ![](https://komarev.com/ghpvc/?username=https://github.com/pritam1011NP)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam1011NP&label=Profile%20views&color=0e75b6&style=flat" alt="pritam1011NP" /> </p>
  </a>
  </div>
  <br> 
